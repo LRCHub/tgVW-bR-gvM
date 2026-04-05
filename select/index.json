@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "風花",
+  "base_artist": "四条貴音(CV:原由実)",
+  "createdAt": "2026-04-05T10:07:02.570157Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風花",
+      "artist": "森山直太朗",
+      "has_synced": true,
+      "path": "select/01_風花_森山直太朗.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風花 (網路劇《我就是這般女子》插曲)",
+      "artist": "關曉彤 & 侯明昊",
+      "has_synced": false,
+      "path": "select/02_風花_(網路劇《我就是這般女子》插曲)_關曉彤_&_侯明昊.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風花",
+      "artist": "月子",
+      "has_synced": true,
+      "path": "select/03_風花_月子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風花",
+      "artist": "四条貴音(原由実)",
+      "has_synced": false,
+      "path": "select/pl_01_風花_四条貴音(原由実).txt"
+    }
+  ]
+}
